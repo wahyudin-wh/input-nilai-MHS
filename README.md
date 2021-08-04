@@ -1,8 +1,3 @@
 # Input-Nilai-Mhs-
-Aplikasi JavaNetbeans
 
-BACALAH!!!
-DISITULAH KALIAN TAU APA ARTINYA WAWASAN./
-
-
-KEGAGALAN ADALAH AWAL DARI KEMENANGAN
+JavaNetbeans 
